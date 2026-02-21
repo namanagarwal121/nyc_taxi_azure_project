@@ -1,0 +1,9 @@
+{
+	"name": "dfnyctaxiazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1973473b-af73-4041-8c78-e5bc8461033d",
+		"tenantId": "546be867-0dc2-4dd7-9abd-d96cf642dff2"
+	}
+}
